@@ -1,0 +1,53 @@
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.exe
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.deps.json
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.runtimeconfig.json
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.runtimeconfig.dev.json
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.dll
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.pdb
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\staticwebassets\Kelasys-backend.StaticWebAssets.Manifest.cache
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\staticwebassets\Kelasys-backend.StaticWebAssets.xml
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.RazorTargetAssemblyInfo.cache
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.dll
+C:\Users\Plamedi L. Lusembo\source\repos\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.pdb
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.exe
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.deps.json
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.runtimeconfig.json
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.runtimeconfig.dev.json
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Kelasys-backend.pdb
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.csprojAssemblyReference.cache
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\staticwebassets\Kelasys-backend.StaticWebAssets.Manifest.cache
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\staticwebassets\Kelasys-backend.StaticWebAssets.xml
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.AssemblyInfoInputs.cache
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.AssemblyInfo.cs
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.RazorTargetAssemblyInfo.cache
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.pdb
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ESR\Kelasys\Kelasys-backend\Kelasys-backend\obj\Debug\netcoreapp3.1\Kelasys-backend.csproj.CopyComplete
